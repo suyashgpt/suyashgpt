@@ -7,7 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=suyashgpt&label=Profile%20views&color=0e75b6&style=flat)
 
 ### About Me
-- 👨‍💻 All of my projects are available at [https://suyashgpt.web.app](https://suyashgpt.web.app)
+- 👨‍💻 All of my projects are available at [https://suyashgpt.me](https://suyashgpt.me)
 - ⚡ Fun fact: **I am funny😅**
 
 ---
